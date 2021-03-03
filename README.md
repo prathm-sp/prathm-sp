@@ -1,6 +1,6 @@
 ### Hi there, I'm Prathmesh 👋
 
-Hello, I am a Full-stack Developer.
+Full-stack Developer.
 
 I am very well versed with technologies like React, Redux, Javascript, Nodejs, Expressjs, Mongodb 
 
