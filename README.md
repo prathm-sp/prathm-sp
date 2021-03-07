@@ -7,11 +7,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prathm-sp&theme=onedark" alt="prathm-sp" /></a> </p>
 
-<h2 style="
-    display: flex;
-    align-items: center;
-"><span>about me</span></h2>
-
 - 💬 Ask me about *Reactjs , Express , Mongodb*
 
 - 📫 How to reach me *prathmeshkulkarni98882@gmail.com*
