@@ -27,7 +27,11 @@
   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=swapnilshinde123&show_icons=true&count_private=true&theme=radical)
 
 </div>
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=prathm-sp&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  
+
+
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=swapnilshinde123&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  
+
 
 <h2> Some Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '75px'></h2>
 
