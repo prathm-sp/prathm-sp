@@ -21,6 +21,8 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=prathm-sp&show_icons=true&locale=en&layout=compact&theme=radical" alt="prathm-sp" /></p>
  
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=swapnilshinde123&theme=radical" alt="swapnilshinde123" /></p>
+
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=prathm-sp&show_icons=true&count_private=true&theme=radical)  
 
