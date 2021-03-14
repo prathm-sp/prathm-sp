@@ -16,12 +16,12 @@
 
 <h2> My GitHub Stats:</h2>
 <div>
-<span align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prathm-sp&show_icons=true&locale=en&layout=compact&theme=radical" alt="prathm-sp" /></span>
+<span align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prathm-sp&show_icons=true&locale=en&layout=compact&theme=highcontrast" alt="prathm-sp" /></span>
 
  
  <span><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prathm-sp&theme=highcontrast" alt="prathm-sp" /></span>
 
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=prathm-sp&show_icons=true&count_private=true&theme=radical)
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=prathm-sp&show_icons=true&count_private=true&theme=highcontrast)
 
 </div>
 
