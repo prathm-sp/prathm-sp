@@ -5,7 +5,7 @@
 > "The most important single aspect of software development is to be clear about what you are trying to build." - Bjarne Stroustrup
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prathm-sp&theme=onedark" alt="prathm-sp" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prathm-sp&theme=juicyfresh" alt="prathm-sp" /></a> </p>
 
 - 💬 Ask me about *Reactjs , Express , Mongodb*
 
