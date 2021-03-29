@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
 
-> "The most important single aspect of software development is to be clear about what you are trying to build." - Bjarne Stroustrup
+https://github-readme-quotes.herokuapp.com/quote?theme=dark&animation=grow_out_in
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prathm-sp&theme=juicyfresh" alt="prathm-sp" /></a> </p>
